@@ -1,3 +1,7 @@
-# LoginRegistration-system
+# Android Login and registration system 
 
-Login signin, signup system for android usig firebase
+Login and signup using java and firebase. 
+Features include
+-Email confirmation
+-Password reset
+
