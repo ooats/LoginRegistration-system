@@ -2,8 +2,13 @@
 
 Login and signup using java and firebase. 
 <br/>
-Features include
+##Features include
 <br/>
 - Email confirmation
 - Password reset
+<br/>
+<br/>
+##Skills learnt
+- Firebase authentication
+- Realtime Database
 
